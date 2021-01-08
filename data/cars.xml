@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<catalog xmlns="cars_schema.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <car id="1">
+        <category>Sedan</category>
+        <brand>Toyota</brand>
+        <availability>True</availability>
+        <model>Camry</model>
+        <model_year>2014</model_year>
+        <mileage>56893</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>150</price_per_day>
+        <description>The powerful, stylish 2014 Camry Hybrid gives up nothing with its optimized fuel economy, advanced tech and stirring drive.</description>
+        <image>
+            <path>images/Camry.jpg</path>
+            <alternate_title>Toyota Camry 2014</alternate_title>
+        </image>
+    </car>
+    <car id="2">
+        <category>SUV</category>
+        <brand>Holden</brand>
+        <availability>True</availability>
+        <model>Captiva</model>
+        <model_year>2016</model_year>
+        <mileage>39859</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>7</seats>
+        <price_per_day>175</price_per_day>
+        <description>Freshly updated for 2016, the Holden Captiva is equipped with Central Locking, Driver Airbag, Dual Airbags, Power Steering, Power Windows, perfect for long distance trip.</description>
+        <image>
+            <path>images/Captiva.jpg</path>
+            <alternate_title>Holden Captiva 2016</alternate_title>
+        </image>
+    </car>
+    <car id="3">
+        <category>Wagon</category>
+        <brand>Jeep</brand>
+        <availability>False</availability>
+        <model>Cherokee</model>
+        <model_year>2017</model_year>
+        <mileage>15029</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>245</price_per_day>
+        <description>The Jeep® Cherokee SUV takes the authenticity and craftsmanship of traditional Jeep Brand design and reimagines it for modern adventure.</description>
+        <image>
+            <path>images/Cherokee.jpg</path>
+            <alternate_title>Jeep Cherokee 2017</alternate_title>
+        </image>
+    </car>
+    <car id="4">
+        <category>Sedan</category>
+        <brand>Honda</brand>
+        <availability>True</availability>
+        <model>Civic</model>
+        <model_year>2018</model_year>
+        <mileage>6583</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>5</seats>
+        <price_per_day>285</price_per_day>
+        <description>The bold Honda Civic Sedan offers style and sophistication to entice your senses for excitement. Sleek lines and refined features from the wheels up, the Civic cuts an impressive figure amongst the bustle of the city.</description>
+        <image>
+            <path>images/Civic.jpg</path>
+            <alternate_title>Honda Civic 2018</alternate_title>
+        </image>
+    </car>
+    <car id="5">
+        <category>SUV</category>
+        <brand>Mercedes-Benz</brand>
+        <availability>False</availability>
+        <model>GLC Coupe</model>
+        <model_year>2018</model_year>
+        <mileage>2038</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>335</price_per_day>
+        <description>The 2018 Mercedes-Benz GLC-Class Coupe combines the merits of an SUV and a coupé. Sportier and more cutting-edge than ever.</description>
+        <image>
+            <path>images/GLC.jpg</path>
+            <alternate_title>Mercedes-Benz GLC 2018</alternate_title>
+        </image>
+    </car>
+    <car id="6">
+        <category>Wagon</category>
+        <brand>Volkswagen</brand>
+        <availability>True</availability>
+        <model>Golf GTI</model>
+        <model_year>2017</model_year>
+        <mileage>5019</mileage>
+        <fuel_type>CNG</fuel_type>
+        <seats>5</seats>
+        <price_per_day>305</price_per_day>
+        <description> Introducing the hatch with day-to-day comfort and enough pep to make you sweat. Powerful yet still practical, it's a car you can use to commute to work one day, and take it to the track the next. The blood-pumping, spine-tingling, heart-racing iconic Golf GTI is the original and the best.</description>
+        <image>
+            <path>images/Golf.jpg</path>
+            <alternate_title>Volkswagen Golf GTI 2017</alternate_title>
+        </image>
+    </car>
+    <car id="7">
+        <category>SUV</category>
+        <brand>Suzuki</brand>
+        <availability>False</availability>
+        <model>Jimny</model>
+        <model_year>2011</model_year>
+        <mileage>60293</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>4</seats>
+        <price_per_day>155</price_per_day>
+        <description>It’s the original, rugged 4x4. Beginning with the LJ10A in 1970, The Jimny has forged a legendary reputation for being tougher than the terrain it travels. Lightweight but seriously capable, the all-new Jimny is the next level in taking you places others can’t.</description>
+        <image>
+            <path>images/Jimny.jpg</path>
+            <alternate_title>Suzuki Jimny 2011</alternate_title>
+        </image>
+    </car>
+    <car id="8">
+        <category>Sedan</category>
+        <brand>Hyundai</brand>
+        <availability>True</availability>
+        <model>Sonata</model>
+        <model_year>2016</model_year>
+        <mileage>40192</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>205</price_per_day>
+        <description>Innovation after inspired innovation will make the 2016 Sonata the best thing to happen to sedans since forever. From sleek, sports coupe design to tech and safety on the cutting edge, the 2016 Sonata's got it all.</description>
+        <image>
+            <path>images/Sonata.jpg</path>
+            <alternate_title>Hyundai Sonata 2016</alternate_title>
+        </image>
+    </car>
+    <car id="9">
+        <category>SUV</category>
+        <brand>Nissan</brand>
+        <availability>True</availability>
+        <model>X-Trail</model>
+        <model_year>2016</model_year>
+        <mileage>81059</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>7</seats>
+        <price_per_day>195</price_per_day>
+        <description>Whatever kind of lifestyle you live, the 2016 Nissan X-TRAIL can accommodate it. Open up to a bigger, bolder world, and get there in a spacious SUV that brings a sophisticated look to consistent capability.</description>
+        <image>
+            <path>images/X-trail.jpg</path>
+            <alternate_title>Nissan X-trail 2016</alternate_title>
+        </image>
+    </car>
+    <car id="10">
+        <category>Sedan</category>
+        <brand>BMW</brand>
+        <availability>True</availability>
+        <model>320i</model>
+        <model_year>2016</model_year>
+        <mileage>7029</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>5</seats>
+        <price_per_day>225</price_per_day>
+        <description>The BMW 320i has always been the leader. Through the new design language, the sports sedan is connecting the successful history with the future.</description>
+        <image>
+            <path>images/320i.jpg</path>
+            <alternate_title>BMW 320i 2016</alternate_title>
+        </image>
+    </car>
+</catalog>
